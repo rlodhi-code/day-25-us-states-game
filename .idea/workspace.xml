@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40e91c74-347f-40c8-a950-bd2645c34550" name="Changes" comment="Baseline code with just .csv files that has all 50 US states with their coordinates on the map image that is part of this project. It just displays the map with a prompt to enter the state name.">
+    <list default="true" id="40e91c74-347f-40c8-a950-bd2645c34550" name="Changes" comment="Only one state matched in the data set and written on the map.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -68,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1768959669766</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Only one state matched in the data set and written on the map.">
+      <option name="closed" value="true" />
+      <created>1769044927569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769044927569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Baseline code with just .csv files that has all 50 US states with their coordinates on the map image that is part of this project. It just displays the map with a prompt to enter the state name." />
-    <option name="LAST_COMMIT_MESSAGE" value="Baseline code with just .csv files that has all 50 US states with their coordinates on the map image that is part of this project. It just displays the map with a prompt to enter the state name." />
+    <MESSAGE value="Only one state matched in the data set and written on the map." />
+    <option name="LAST_COMMIT_MESSAGE" value="Only one state matched in the data set and written on the map." />
   </component>
 </project>
